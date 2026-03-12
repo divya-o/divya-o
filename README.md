@@ -1,4 +1,4 @@
-## Hello, I'm Divyajyoti Oraon 👋
+## Hello, I'm Divya👋
 ### Software Engineer | AI & Backend Systems | ML Pipelines
 
 Software Engineer skilled in backend architecture, ML pipelines, and AI systems.  
@@ -18,7 +18,6 @@ Experienced in building **full-stack applications, distributed systems, and data
    ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
    ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=1572B6)
    ![React](https://img.shields.io/badge/-React-000?&logo=react)
-   ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
    ![D3.js](https://img.shields.io/badge/-D3.js-000?&logo=d3.js)
 
 
@@ -30,21 +29,13 @@ Experienced in building **full-stack applications, distributed systems, and data
    ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=graphql&logoColor=E10098)
 
 
-* Frameworks:
-  
-   ![LangChain](https://img.shields.io/badge/-LangChain-000)
-   ![LangGraph](https://img.shields.io/badge/-LangGraph-000)
-   ![Strapi](https://img.shields.io/badge/-Strapi-000?&logo=strapi)
-   ![Streamlit](https://img.shields.io/badge/-Streamlit-000?&logo=streamlit)
-
-
-
 * Databases:
   
    ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
    ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
    ![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
    ![ChromaDB](https://img.shields.io/badge/-ChromaDB-000)
+   ![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=supabase)
 
 
 
@@ -64,7 +55,11 @@ Experienced in building **full-stack applications, distributed systems, and data
    ![LangChain](https://img.shields.io/badge/-LangChain-000)
    ![LangGraph](https://img.shields.io/badge/-LangGraph-000)
    ![RAG](https://img.shields.io/badge/-RAG-000)
+   ![XGBoost](https://img.shields.io/badge/-XGBoost-000)
+   ![LightGBM](https://img.shields.io/badge/-LightGBM-000)
+   ![Prophet](https://img.shields.io/badge/-Prophet-000)
    ![MLflow](https://img.shields.io/badge/-MLflow-000)
+   ![Streamlit](https://img.shields.io/badge/-Streamlit-000?&logo=streamlit)
 
 
 
@@ -76,13 +71,11 @@ Experienced in building **full-stack applications, distributed systems, and data
    ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
    ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-000?&logo=scikit-learn)
    ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=plotly)
-   ![XGBoost](https://img.shields.io/badge/-XGBoost-000)
-   ![LightGBM](https://img.shields.io/badge/-LightGBM-000)
-   ![Prophet](https://img.shields.io/badge/-Prophet-000)
    ![Power BI](https://img.shields.io/badge/-Power%20BI-000?&logo=powerbi)
 
 * Other
   
+![Git](https://img.shields.io/badge/-Git-000?&logo=git) 
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=jira&logoColor=0A0FFF)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman&logoColor=FF6C37)
 
@@ -120,9 +113,7 @@ Experienced in building **full-stack applications, distributed systems, and data
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=divya-o&theme=dark&hide_border=false" />
 <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=divya-o&theme=dark&hide_border=false" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divya-o&theme=dark&hide_border=false&layout=compact" />
 
 </div>
 
